@@ -2,7 +2,7 @@
 
 💻 **Engenheiro de Dados**
 
-📚 Estudando Análise e Desenvolvimento de Sistemas na Universidade Estadual de Campinas (Noturno)
+📚 Formado em Análise e Desenvolvimento de Sistemas pela UNICAMP (Noturno)
 
 🌍 São Paulo - Brasil
 
