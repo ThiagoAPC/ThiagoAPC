@@ -6,7 +6,6 @@
 
 🌍 São Paulo - Brasil
 
-![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=ThiagoAPC&show_icons=true&theme=dark) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoAPC&layout=compact&theme=dark)
 
 ## Tecnologias que uso no dia a dia
 
@@ -24,7 +23,6 @@
 
 ## Me siga nas redes sociais:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thigxs_/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thiago.paracampos18@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiagoapcorrea/)
 
