@@ -2,7 +2,7 @@
 
 💻 **Engenheiro de Dados**
 
-📚 Formado em Análise e Desenvolvimento de Sistemas pela UNICAMP (Noturno)
+📚 Formado em Análise e Desenvolvimento de Sistemas pela UNICAMP
 
 🌍 São Paulo - Brasil
 
