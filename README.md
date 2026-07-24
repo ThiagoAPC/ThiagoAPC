@@ -1,6 +1,6 @@
 ## Olá, eu me chamo Thiago! 👋
 
-💻 **Engenheiro de Dados**
+Engenheiro de Dados com sólida experiência na implementação de soluções robustas de Big Data e automação de pipelines na nuvem (AWS) e em otimização de processos, infraestrutura de dados e processamento em larga escala. Focado em eficiência operacional, exploração e inovação no tratamento de dados.
 
 📚 Formado em Análise e Desenvolvimento de Sistemas pela UNICAMP
 
